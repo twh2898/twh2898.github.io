@@ -1,4 +1,8 @@
-theme: jekyll-theme-slate
-safe: true
+title: twh2898 title
+email: twh2898@vt.edu
+url: "https://twh2898.github.io"
+github_username: twh2898
 timezone: America/New_York
 encoding: utf8
+markdown: kmarkdown
+theme: jekyll-theme-slate
